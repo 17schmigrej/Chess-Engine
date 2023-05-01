@@ -12,4 +12,4 @@ Principal Variation/Iterative Deepening \
 Principal Variation Search \
 Late Move Reduction \ 
 Null Move Pruning \
-Transposition Table \
+Transposition Table
