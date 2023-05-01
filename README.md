@@ -10,6 +10,6 @@ History Moves \
 Quiescence Search \
 Principal Variation/Iterative Deepening \
 Principal Variation Search \
-Late Move Reduction \ 
+Late Move Reduction \
 Null Move Pruning \
 Transposition Table
