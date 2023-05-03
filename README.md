@@ -13,3 +13,5 @@ Principal Variation Search \
 Late Move Reduction \
 Null Move Pruning \
 Transposition Table
+
+![screenshot](screenshot/example_chess_game)
