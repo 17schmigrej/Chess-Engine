@@ -14,4 +14,4 @@ Late Move Reduction \
 Null Move Pruning \
 Transposition Table
 
-![screenshot](screenshot/example_chess_game)
+![screenshot](screenshot/example_chess_game.png)
