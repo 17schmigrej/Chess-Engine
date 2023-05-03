@@ -1,5 +1,5 @@
 # Chess-Engine
-A C++ UCI protocol chess engine. Executable is found in the Release folder.
+A C++ UCI protocol chess engine. Executable is found in the Release folder. Accepts challenges on lichess.org under the alias WolfTacticsV1. 
 
 
 # Features:
