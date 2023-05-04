@@ -1,5 +1,5 @@
 # Chess-Engine
-A C++ UCI protocol chess engine. The binary executable is found in the Release folder and is ready to be installed into a chess GUI. Accepts challenges on lichess.org under the alias WolfTacticsV1. Minimax search features are listed below.
+A C++ UCI protocol chess engine. This chess engine makes use of the Minimax search algorithm with alpha-beta pruning and other extentions. The binary executable is found in the Release folder and is ready to be installed into a chess GUI. Accepts challenges on lichess.org under the alias WolfTacticsV1. Minimax search features are listed below.
 
 
 # Features:
