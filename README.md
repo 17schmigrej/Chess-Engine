@@ -1,5 +1,5 @@
 # Chess-Engine
-A C++ UCI protocol chess engine. Executable is found in the Release folder. Accepts challenges on lichess.org under the alias WolfTacticsV1. Minimax search features are listed below.
+A C++ UCI protocol chess engine. The binary executable is found in the Release folder and is ready to be installed into a chess GUI. Accepts challenges on lichess.org under the alias WolfTacticsV1. Minimax search features are listed below.
 
 
 # Features:
@@ -15,3 +15,6 @@ Null Move Pruning \
 Transposition Table
 
 ![screenshot](screenshot/example_chess_game.png)
+
+# Building:
+The .sln file can be used to build the project in Visual Studio 2022. Be sure to use Release Mode and that compiler optimizations are turned on.
